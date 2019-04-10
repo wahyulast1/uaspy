@@ -2,7 +2,8 @@
 
 silakan tuliskan langkah-langkah disertai screenshotnya
 
-# 1.
+# 1.langkah pertama adalah mengclone file tersebut
+
 ![Screenshot (8)](https://user-images.githubusercontent.com/46735790/55851124-9a59dc80-5b81-11e9-883b-d321a6907a5f.png)
 
 # 2.
